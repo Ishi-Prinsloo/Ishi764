@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @Ishi764
-- 🌱 I’m currently learning Android development/Kotlin
+- linkedIn : https://www.linkedin.com/in/ishi-prinsloo-608758183/
+- Learning : Java, Kotlin, Android, Python
