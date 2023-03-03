@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Ishi764
-- linkedIn : https://www.linkedin.com/in/ishi-prinsloo-608758183/
 - Learning : Java, Kotlin, Android, Python
