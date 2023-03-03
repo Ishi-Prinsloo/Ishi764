@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @Ishi764
+- 👋 Hi, I’m Hennie Prinsloo - @Ishi-Prinsloo
+- Data Analyst for Remote Metering Solutions
 - Learning : Java, Kotlin, Android, Python
